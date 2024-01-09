@@ -20,7 +20,7 @@ What is the impact of solar radiation and humidity on soil temperature ?
   - Similarly, what is the relationship between humidity levels and soil temperature?
 
 
-### Key Insights
+# Key Insights
 
 - **Visualization Impact:** The scatter plot titled "Relationship between Solar Radiation and Soil Temperature" effectively conveyed the positive correlation between solar radiation and soil temperature.
 
