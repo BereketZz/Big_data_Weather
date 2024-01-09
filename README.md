@@ -1,8 +1,8 @@
 
 **Name: Bereket Zewde  ID:1594/12**
 
-#Introduction
-'''
+# Introduction
+
 This dataset originates from the Arbaminch University Metrology Department
 and was acquired during my internship at Arbaminch University.
 It encompasses a comprehensive collection of weather measurements,
@@ -11,14 +11,14 @@ The data provides valuable insights into the local climatic conditions,
 allowing for exploratory data analysis and the exploration of relationships
 between various meteorological parameters.The data spans from 2016 to June 2023, capturing a comprehensive timeline of
 meteorological observations during this period. 
-'''
 
-#Questions
-'''
+
+# Questions
+
 What is the impact of solar radiation and humidity on soil temperature ?
   - How does solar radiation influence soil temperature, and are there discernible patterns or correlations?
   - Similarly, what is the relationship between humidity levels and soil temperature?
-'''
+
 
 ### Key Insights
 
