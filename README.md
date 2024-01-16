@@ -58,3 +58,35 @@ What is the impact of solar radiation and humidity on soil temperature ?
  #Avoiding Causation Based Solely on Correlation:
  While I observe a positive correlation between solar radiation and soil temperature, it is important to emphasize
  that correlation does not imply causation. Other variables, not considered in this analysis, may contribute to the observed patterns.  
+
+ Google colab url:https://colab.research.google.com/drive/1GhNQveK77HkVNYHCtdDgyN0AKPOZW1fA?usp=sharing
+
+ #Introduction
+The Sleep Health and Lifestyle Dataset comprises 400 rows and 13 columns, covering a wide range of variables related to sleep and daily habits. It includes details such as gender, age, occupation, sleep duration, quality of sleep, physical activity level, stress levels, BMI category, blood pressure, heart rate, daily steps, and the presence or absence of sleep disorders.
+
+#Questions
+Is there a relationship between sleep duration and the occurrence of sleep disorders?
+
+# Reflection on Data Exploration:
+ the data exploration has provided valuable insights into the relationship between sleep duration and various health parameters in the given dataset.
+ The primary question, "Is there a relationship between sleep duration and the occurrence of sleep disorders?" has been addressed through several analytical steps.
+
+ # Summary of Main Findings:
+ 1. Sleep Duration Distribution: The histogram plot of sleep durations revealed that the majority of individuals in the dataset sleep between 6.5 and 8 hours, aligning with the recommended optimal range for health and well-being.
+ 2.Sleep Disorders and Sleep Duration: The boxplot comparing sleep duration across different sleep disorders indicated distinct patterns:
+   Individuals without a sleep disorder tend to have a higher average sleep duration.
+   Those with Sleep Apnea exhibit a lower average sleep duration, suggesting a potential correlation between Sleep Apnea and shorter sleep durations.
+   People with Insomnia show varied sleep durations, indicating the heterogeneous nature of insomnia's impact on sleep duration.
+3.Correlation between Sleep Duration and Sleep Disorder: The correlation coefficient of 0.1775 was calculated, indicating a weak positive correlation. This suggests that, on average, individuals with longer sleep durations tend to have higher numerical values for the encoded sleep disorder variable. However, the correlation is relatively weak, and caution should be exercised in drawing strong conclusions.
+
+#Additional Research Opportunities:
+Further research can delve into the specific factors contributing to the observed patterns, such as the influence of lifestyle, stress levels, or medical history on sleep duration and sleep disorders.
+
+#Limitation:
+One limitation of this analysis is that it is based on observational data, and causation cannot be inferred. Correlation does not imply causation, and additional factors may influence the observed relationships.
+
+#Future Directions:
+Exploring the impact of lifestyle factors on sleep patterns and disorders could provide a more comprehensive understanding.
+Gathering more detailed information on participants' daily routines and stressors could enhance the depth of the analysis.
+
+#Google colab url: https://colab.research.google.com/drive/1MWUsIa_DW5q-kc4nckzBlq1EWV6mG3bO?usp=sharing
