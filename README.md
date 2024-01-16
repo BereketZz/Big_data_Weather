@@ -61,11 +61,14 @@ What is the impact of solar radiation and humidity on soil temperature ?
 
  Google colab url:https://colab.research.google.com/drive/1GhNQveK77HkVNYHCtdDgyN0AKPOZW1fA?usp=sharing
 
- #Introduction
+
+ /**************************************************************************************************************************************************************************************************************/
+
+ # Introduction
  
 The Sleep Health and Lifestyle Dataset comprises 400 rows and 13 columns, covering a wide range of variables related to sleep and daily habits. It includes details such as gender, age, occupation, sleep duration, quality of sleep, physical activity level, stress levels, BMI category, blood pressure, heart rate, daily steps, and the presence or absence of sleep disorders.
 
-#Questions
+# Question
 
 Is there a relationship between sleep duration and the occurrence of sleep disorders?
 
@@ -83,15 +86,15 @@ Is there a relationship between sleep duration and the occurrence of sleep disor
    People with Insomnia show varied sleep durations, indicating the heterogeneous nature of insomnia's impact on sleep duration.
 3.Correlation between Sleep Duration and Sleep Disorder: The correlation coefficient of 0.1775 was calculated, indicating a weak positive correlation. This suggests that, on average, individuals with longer sleep durations tend to have higher numerical values for the encoded sleep disorder variable. However, the correlation is relatively weak, and caution should be exercised in drawing strong conclusions.
 
-#Additional Research Opportunities:
+# Additional Research Opportunities:
 
 Further research can delve into the specific factors contributing to the observed patterns, such as the influence of lifestyle, stress levels, or medical history on sleep duration and sleep disorders.
 
-#Limitation:
+# Limitation:
 
 One limitation of this analysis is that it is based on observational data, and causation cannot be inferred. Correlation does not imply causation, and additional factors may influence the observed relationships.
 
-#Future Directions:
+# Future Directions:
 
 Exploring the impact of lifestyle factors on sleep patterns and disorders could provide a more comprehensive understanding.
 Gathering more detailed information on participants' daily routines and stressors could enhance the depth of the analysis.
